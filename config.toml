@@ -16,7 +16,7 @@ katex = true
   # Subtitle of the website
   subtitle = "A summary of The Seven Cities DnD5e campaign"
   # Your name or the name of you company
-  copyrightHolder = "Someone"
+  copyrightHolder = "M. Crichton"
   # Show the "Powered by Hugo-Tufte and Hugo." 
   showPoweredBy = true
   # Site wide kill switch
@@ -37,8 +37,8 @@ katex = true
   #stackoverflow = "16609732/slashformotion"
   #instagram = "google"
   #mastodon = "instance.url/@username"
-  #orcid = "0000-0003-0634-3275"
-  #google_scholar = "jm5QaHkAAAAJ"
+  orcid = "0000-0001-9348-5171"
+  google_scholar = "3BRG1AoAAAAJ"
 
 [taxonomies]
   category = "categories"

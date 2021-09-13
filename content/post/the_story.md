@@ -1,6 +1,11 @@
 ---
 title: "The Story So Far..."
 date: 2021-09-10T21:33:05-04:00
+math: false 
+meta: true
+toc: true
+author: "M. Crichton"
+type: "post"
 ---
 ## Prelude
 The campaign starts as some intrepid explorers answered the call to help fight a war in a faraway
